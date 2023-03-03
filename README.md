@@ -9,6 +9,22 @@ TensorFlow <br />
 Keras   
 OpenCV   <br />
 NumPy
+
+## Model Weights
+This project uses pre-trained weights to achieve state-of-the-art performance on our task. The weights were trained on a large dataset and are essential for replicating our results.
+
+You can download the weights for our model at the following link: [Weights](https://drive.google.com/file/d/10Lp84EMHdtItv8tEB9cJJ_phRu8VXOnM/view?usp=drivesdk). The weights are stored in a compressed file format and can be loaded into your project.
+
+**Note**: The weights file is large and may take some time to download. Alternatively, you can use a cloud storage service such as Google Drive, Dropbox, or Amazon S3 to download the file faster.
+
+**To load the weights into your project, follow these steps:**
+
+* Download the weights file and extract the contents.
+
+* Move the weights file to the appropriate directory in your project.
+
+If you have any issues with the weights or need further assistance, please don't hesitate to reach out to us.
+
 ### Dataset Link
 https://drive.google.com/drive/folders/1RQTmOFW3kteXj7rk29nEbL78L6ZVqaKU?usp=share_link
 
